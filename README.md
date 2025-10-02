@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jerimiah Tongco (JAE)
+# Hi there! 👋 I'm (JAE)
 
 ## 🚀 About Me
 
@@ -11,21 +11,31 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
+![PHP](https://skillicons.dev/icons?i=php)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
 
 ### Frameworks & Libraries
+![Laravel](https://skillicons.dev/icons?i=laravel)
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Vue](https://skillicons.dev/icons?i=vue)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![JQuery](https://skillicons.dev/icons?i=jquery)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
 
 ### Tools & Platforms
+![NPM](https://skillicons.dev/icons?i=npm)
 ![Git](https://skillicons.dev/icons?i=git)
+![Figma](https://skillicons.dev/icons?i=figma)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Apple](https://skillicons.dev/icons?i=apple)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 
 ## 📊 GitHub Stats
