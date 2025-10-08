@@ -24,6 +24,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ![JQuery](https://skillicons.dev/icons?i=jquery)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![NPM](https://skillicons.dev/icons?i=npm)
 
 
 ### Tools & Platforms
