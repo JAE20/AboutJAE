@@ -19,6 +19,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ### Frameworks & Libraries
 ![Laravel](https://skillicons.dev/icons?i=laravel)
+![Wordpress](https://skillicons.dev/icons?i=wordpress)
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![JQuery](https://skillicons.dev/icons?i=jquery)
